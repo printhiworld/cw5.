@@ -13,27 +13,6 @@
     "min_damage": 1.2,
     "max_damage": 2.5,
     "stamina_per_hit": 1.3
-  },
-  {
-    "id": 3,
-    "name": "ладошки",
-    "max_damage": 1,
-    "min_damage": 0.5,
-    "stamina_per_hit": 1
-  },
-    {
-    "id": 4,
-    "name": "палица остроты",
-    "max_damage": 1,
-    "min_damage": 0.5,
-    "stamina_per_hit": 1
-  },
-    {
-    "id": 5,
-    "name": "огромный камень",
-    "max_damage": 1,
-    "min_damage": 0.5,
-    "stamina_per_hit": 1
   }
   ],
   "armors": [
@@ -41,31 +20,13 @@
     "id": 1,
     "name": "рыцарская пижамка",
     "defence": 0,
-    "stamina_per_turn": 0
+    "stamina_per_turn": 1
     },
     {
     "id": 2,
     "name":"латексный костюм",
     "defence": 1.2,
     "stamina_per_turn": 1
-    },
-    {
-    "id": 3,
-    "name": "вязанный шлем",
-    "defence": 2.0,
-    "stamina_per_turn": 1.6
-    },
-    {
-    "id": 4,
-    "name": "доспехи из коры",
-    "defence": 2.0,
-    "stamina_per_turn": 1.6
-    },
-    {
-    "id": 5,
-    "name": "нереально зауженные джинсы",
-    "defence": 2.0,
-    "stamina_per_turn": 1.6
     }
   ]
 }
