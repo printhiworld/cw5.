@@ -18,7 +18,7 @@ class Arena(metaclass=BaseSingleton):
 
     def _check_players_hp(self) -> str:
         if self.player.hp <= 0:
-            self.battle_result = f'{self.player.name} проиграл'
+            self.battle_result = f'ты проиграл '
             return self._end_game()
         elif self.enemy.hp <= 0:
             self.battle_result = f'ты одержал победу!'
