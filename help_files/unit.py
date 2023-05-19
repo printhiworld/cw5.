@@ -6,6 +6,8 @@ from random import randint
 from typing import Optional
 
 
+
+
 class BaseUnit(ABC):
     """
     Базовый класс юнита
