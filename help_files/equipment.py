@@ -13,7 +13,6 @@ class Armor:
     defence: float
     stamina_per_turn: int
 
-
 @dataclass
 class Weapon:
     id: int
